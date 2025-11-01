@@ -1,3 +1,4 @@
 libraries/*
 
 !libraries/.env
+!libraries/body-parser
