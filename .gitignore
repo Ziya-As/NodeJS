@@ -1,7 +1,7 @@
 libraries/*
 
 !libraries/.env
-
+!libraries/bcrypt
 !libraries/body-parser
 
 !libraries/cluster
