@@ -7,3 +7,5 @@ libraries/*
 !libraries/cluster
 !libraries/compression
 !libraries/cookie-parser
+
+!libraries/express-session
