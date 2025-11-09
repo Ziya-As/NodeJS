@@ -9,3 +9,4 @@ libraries/*
 !libraries/cookie-parser
 
 !libraries/express-session
+!libraries/express-validator
