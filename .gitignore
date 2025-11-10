@@ -10,3 +10,4 @@ libraries/*
 
 !libraries/express-session
 !libraries/express-validator
+!libraries/helmet
