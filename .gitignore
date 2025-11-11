@@ -13,3 +13,4 @@ libraries/*
 !libraries/helmet
 
 !libraries/passport
+!libraries/rate-limiting
