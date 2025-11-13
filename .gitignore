@@ -14,3 +14,4 @@ libraries/*
 
 !libraries/passport
 !libraries/rate-limiting
+!libraries/uuid
