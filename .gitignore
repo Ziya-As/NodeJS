@@ -16,3 +16,4 @@ libraries/*
 !libraries/rate-limiting
 !libraries/uuid
 !libraries/winston
+!libraries/worker_threads
