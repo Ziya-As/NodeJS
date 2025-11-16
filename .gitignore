@@ -1,19 +1,7 @@
-libraries/*
+Node_library_list.md
 
-!libraries/.env
-!libraries/bcrypt
-!libraries/body-parser
-
-!libraries/cluster
-!libraries/compression
-!libraries/cookie-parser
-
-!libraries/express-session
-!libraries/express-validator
-!libraries/helmet
-
-!libraries/passport
-!libraries/rate-limiting
-!libraries/uuid
-!libraries/winston
-!libraries/worker_threads
+libraries/caching
+libraries/CORS
+libraries/crypto
+libraries/emailing
+libraries/JWT
